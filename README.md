@@ -21,7 +21,7 @@ I am a passionate developer focused on innovation and creativity in software dev
 - 👯 I’m looking forward to collaborating on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="mailto:danilmylti845@gmail.com">danilmylti845@gmail.com</a>
+- 📫 Reach out to me at: <a href="mailto:sosuhui@gmail.com">sosuhui@gmail.com</a>
 
 
 <h2>👀 My GitHub Stats</h2>
