@@ -23,18 +23,6 @@ I am a passionate developer focused on innovation and creativity in software dev
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and sketching, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="mailto:danilmylti845@gmail.com">danilmylti845@gmail.com</a>
 
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/PixelPilot/CoolProject">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PixelPilot1&repo=CoolProject" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/PixelPilot/AwesomeAI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PixelPilot1&repo=AwesomeAI" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
 
 <h2>👀 My GitHub Stats</h2>
 
